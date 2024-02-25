@@ -9,7 +9,7 @@ AI & Data Science Engineer
 * ✉️  You can contact me at [vinitshetty31@gmail.com](mailto:vinitshetty31@gmail.com)
 * 🧠  I'm learning Azure Databricks
 * 🤝  I'm open to collaborating on Data Projects
-* ⚡  I'm secretly Ironman... but don't tell anyone.
+* ⚡  I'm secretly Ironman... but don't tell anyone
 
 ### Skills
 
