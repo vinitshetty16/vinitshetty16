@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinit Shetty
-- 👀 I’m interested in Artificial Intelligece and Data Science
-- 🌱 I’m currently pursuing Master's degree in Applied Artificial Intelligence at Deakin University, Australia
+- 👀 I’m interested in Artificial intelligence and Data Science
+- 🌱 I’m currently pursuing a Master's degree in Applied Artificial Intelligence at Deakin University, Australia
 - ✉️ Please drop me a message if you have any suggestions for my projects
-- 📫 You can also reach me through my LinkedIn: https://www.linkedin.com/in/vinit-shetty1609
+- 📫 You can also reach me through my LinkedIn: https://www.linkedin.com/in/vinitshetty
