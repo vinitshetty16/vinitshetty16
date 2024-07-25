@@ -7,7 +7,6 @@ AI & Data Science Engineer
 * 🌍  I'm based in Melbourne, Australia
 * 🖥️  See my portfolio at [MyPortfolio](http://www.datascienceportfol.io/vinit_shetty)
 * ✉️  You can contact me at [vinitshetty31@gmail.com](mailto:vinitshetty31@gmail.com)
-* 🧠  I'm learning Azure Databricks
 * 🤝  I'm open to collaborating on Data Projects
 * ⚡  I'm secretly Ironman... but don't tell anyone
 
